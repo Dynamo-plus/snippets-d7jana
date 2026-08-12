@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Dynamo-plus.github.io/snippets-d7jana/sitemap.xml
